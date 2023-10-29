@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharindu Kanchana</h1>
+<h1 align="center">Hi 👋, I'm Kanchana Samarakoon</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanchana66&label=Profile%20views&color=0e75b6&style=flat" alt="kanchana66" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanchana66" alt="kanchana66" /></a> </p>
