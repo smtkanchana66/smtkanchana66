@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kanchana Samarakoon</h1>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3566E6&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Kanchana+Samarakoon" alt="Typing SVG" />
+</a>
+</p>
+<hr />
 
 - 🌱 I’m currently learning **React Js,Bash,Machine learning and Deep learning**
 - 📫 How to reach me **smtkanchana66@gmail.com**
@@ -14,6 +18,9 @@
 [![An image of @kanchana66's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kanchana66)](https://holopin.io/@kanchana66)
 <hr/>
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kanchana66&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<hr />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanchana66&label=Profile%20views&color=0e75b6&style=flat" alt="kanchana66" /> </p>
