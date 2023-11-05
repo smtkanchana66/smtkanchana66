@@ -31,9 +31,10 @@ Hello :octocat:, I'm Kanchana Samarakoon, currently pursuing a degree in ICT at 
 - music :musical_keyboard:
 
 ## Skills and Experience
-* ⚛ React
-* 📱 Shell
-* 💻 HTML, CSS, JS
+
+-  React ⚛
+-  Shell 📱
+-  HTML, CSS, JS 💻
 
 <!-- <hr />
 
