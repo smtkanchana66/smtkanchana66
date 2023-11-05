@@ -10,9 +10,9 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner2.6.gif" alt="banner" width="900" height="200">
+<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner1.8.gif" alt="banner" width="400" height="400">
 </p>
-
+<!--banner w-900 h-200 box 400x400 -->
 
 
 <p align="center"> 
