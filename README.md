@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner1.8.gif" alt="banner" width="400" height="400">
+<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner3.5.gif" alt="banner" width="900" height="200">
 </p>
 <!--banner w-900 h-200 box 400x400 -->
 
