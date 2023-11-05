@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner1.2.gif" alt="banner" width="300" height="300">
+<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner1.8.gif" alt="banner" width="300" height="300">
 </p>
 
 
