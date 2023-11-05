@@ -3,7 +3,7 @@
 </a>
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/smtk.gif" alt="Dino banner" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner1.3.gif" alt="Dino banner" width="auto" height="auto">
 </p>
 
 <p align="center"> 
