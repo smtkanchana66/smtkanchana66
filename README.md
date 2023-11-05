@@ -2,15 +2,15 @@
 
 
 
-
+<!--
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3566E6&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Kanchana+Samarakoon" alt="Typing SVG" />
 </a>
 </p>
-
+-->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner3.5.gif" alt="banner" width="900" height="200">
+<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner3.2.gif" alt="banner" width="900" height="200">
 </p>
 <!--banner w-900 h-200 box 400x400 -->
 
