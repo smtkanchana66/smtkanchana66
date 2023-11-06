@@ -10,7 +10,7 @@
 -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3.gif" alt="banner" width="900" height="100">
+<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3.gif" alt="banner" width="1000" height="100">
 </p>
 <!--banner w-900 h-200 box 400x400 -->
 
@@ -20,6 +20,10 @@
   <img src="https://profile-counter.glitch.me/kanchana66/count.svg" />
 </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<br><br>
+</p>
 
 ## About me
 Hello :octocat:, I'm Kanchana Samarakoon, currently pursuing a degree in ICT at Uva Wellassa University in Sri Lanka 🇱🇰. As an IT student, I'm on a journey of continuous learning and exploration. I'm dedicated to expanding my knowledge and skills in these cutting-edge fields and look forward to contributing my expertise to the world of technology :ghost:.
