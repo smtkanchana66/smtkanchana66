@@ -14,15 +14,13 @@
 </p>
 <!--banner w-900 h-200 box 400x400 -->
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3.gif" alt="banner" width="1000" height="20">
+</p>
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/kanchana66/count.svg" />
-</p>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-<br><br>
 </p>
 
 ## About me
@@ -40,10 +38,6 @@ Hello :octocat:, I'm Kanchana Samarakoon, currently pursuing a degree in ICT at 
 -  Shell 📱
 -  HTML, CSS, JS 💻
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-<br><br>
-</p>
 
 <!-- <hr />
 
