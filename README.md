@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3t.gif" alt="banner" width="1000" height="25">
 </p>
 
-<h4 align="center">Keep working towards your goals and learning, and you'll continue to shape a successful path for yourself.</h4>
+
 
 
 <p align="center">
