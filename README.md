@@ -51,6 +51,13 @@ banner
 </p>
 
 
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2">
+</p>
+[![An image of @kanchana66's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kanchana66)](https://holopin.io/@kanchana66)
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2">
+</p>
 
 <!-- <hr />
 
