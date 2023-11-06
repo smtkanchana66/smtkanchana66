@@ -24,10 +24,7 @@
 <p align="center"> 
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/kanchana66/count.svg" /> 
-  </p>
-
-
-<p align="center"> 
+  
 <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="25">
 </p>
 
