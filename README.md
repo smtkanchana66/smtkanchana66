@@ -47,7 +47,7 @@ banner
 -  HTML, CSS, JS 💻
 
 <p align="center">
-<img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/go4.gif" alt="Endbanner" width="50" height="50">
+<img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/go6.gif" alt="Endbanner" width="100" height="100">
 </p>
 
 
