@@ -23,7 +23,7 @@
 </p>
 
 <p align="center"> 
- <b> Visitor Count: <b> <br>
+ <b> Visitor Count: </b> <br>
   <img src="https://profile-counter.glitch.me/kanchana66/count.svg" /> 
 </p>
 
@@ -32,8 +32,9 @@
 </p>
 
 ## About me
+
 Hello :octocat:, I'm Kanchana Samarakoon, currently pursuing a degree in ICT at Uva Wellassa University in Sri Lanka 🇱🇰. As an IT student, I'm on a journey of continuous learning and exploration. I'm dedicated to expanding my knowledge and skills in these cutting-edge fields and look forward to contributing my expertise to the world of technology :ghost:.
-banner
+
 ## Things I am passionate about
 
 - Linux :space_invader:
@@ -47,7 +48,7 @@ banner
 -  HTML, CSS, JS 💻
 
 <p align="center">
-<img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/go6.gif" alt="Endbanner" width="100" height="100">
+<img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/go6.gif" alt="Endbanner" width="50" height="50">
 </p>
 
 
