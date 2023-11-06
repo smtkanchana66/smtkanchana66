@@ -36,6 +36,11 @@ Hello :octocat:, I'm Kanchana Samarakoon, currently pursuing a degree in ICT at 
 -  Shell 📱
 -  HTML, CSS, JS 💻
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<br><br>
+</p>
+
 <!-- <hr />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kanchana66&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
