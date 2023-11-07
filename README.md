@@ -46,6 +46,11 @@ Hello :octocat:, I'm Kanchana Samarakoon, currently pursuing a degree in ICT at 
 -  React ⚛
 -  Shell 📱
 -  HTML, CSS, JS 💻
+<p align="left">
+<img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk1.gif" alt="Skills" width="50" height="50">
+<img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk2.gif" alt="Skills" width="50" height="50">
+<img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk3.gif" alt="Skills" width="50" height="50">
+</p>
 
 <p align="center">
 <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/go4.gif" alt="Endbanner" width="50" height="50">
