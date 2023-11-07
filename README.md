@@ -4,31 +4,32 @@
 
 <!--
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3566E6&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Kanchana+Samarakoon" alt="Typing SVG" />
-</a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? 
+         font=Fira+Code&pause=1000&color=3566E6&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Kanchana+Samarakoon" alt="Typing SVG" />
+    </a>
 </p>
 -->
 
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3t.gif" alt="banner" width="1000" height="2">
+    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3t.gif" alt="banner" width="1000" height="2">
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3.gif" alt="banner" width="1000" height="100"> 
+    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3.gif" alt="banner" width="1000" height="100"> 
 </p>
 <!--banner w-1000 h-100 box 400x400 -->
 
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2">
+    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2">
 </p>
 
 <p align="center"> 
- <b> Visitor Count: </b> <br>
-  <img src="https://profile-counter.glitch.me/kanchana66/count.svg" /> 
+    <b> Visitor Count: </b> <br>
+    <img src="https://profile-counter.glitch.me/kanchana66/count.svg" /> 
 </p>
 
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2">
+    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2">
 </p>
 
 ## About me
@@ -46,10 +47,12 @@ Hello :octocat:, I'm Kanchana Samarakoon, currently pursuing a degree in ICT at 
 -  React ⚛
 -  Shell 📱
 -  HTML, CSS, JS 💻
+
 <p align="left">
-<img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk1.png" alt="Linux" width="30" height="30">
-<img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk2.png" alt="Gnome" width="30" height="30">
-<img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk3.png" alt="Kali" width="30" height="30">
+    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk1.png" alt="Linux" width="30" height="30">
+    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk2.png" alt="Gnome" width="30" height="30">
+    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk3.png" alt="Kali" width="30" height="30">
+    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk4.png" alt="debian" width="30" height="30">
 </p>
 
 <!--
