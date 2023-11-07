@@ -11,16 +11,16 @@
 -->
 
 <p align="center"> 
-    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3t.gif" alt="banner" width="1000" height="2">
+    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3t.gif" alt="banner" width="1000" height="2"/>
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3.gif" alt="banner" width="1000" height="100"> 
+    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3.gif" alt="banner" width="1000" height="100"/> 
 </p>
 <!--banner w-1000 h-100 box 400x400 -->
 
 <p align="center"> 
-    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2">
+    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2"/>
 </p>
 
 <p align="center"> 
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center"> 
-    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2">
+    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2"/>
 </p>
 
 ## About me
@@ -49,10 +49,10 @@ Hello :octocat:, I'm Kanchana Samarakoon, currently pursuing a degree in ICT at 
 -  HTML, CSS, JS 💻
 
 <p align="left">
-    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk1.png" alt="Linux" width="30" height="30">
-    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk2.png" alt="Gnome" width="30" height="30">
-    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk3.png" alt="Kali" width="30" height="30">
-    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk4.png" alt="debian" width="30" height="30">
+    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk1.png" alt="Linux" width="30" height="30"/>
+    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk2.png" alt="Gnome" width="30" height="30"/>
+    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk3.png" alt="Kali" width="30" height="30"/>
+    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk4.png" alt="debian" width="30" height="30"/>
 </p>
 
 <!--
