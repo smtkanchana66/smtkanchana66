@@ -41,7 +41,7 @@ Hello :octocat:, I'm Kanchana Samarakoon, currently pursuing a degree in ICT at 
 - Linux :space_invader:
 - Open source :octocat:
 - music :musical_keyboard:
-- Reading :books:
+- Books :books:
 
 ## Skills and Experience
 
