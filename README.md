@@ -41,11 +41,13 @@ Hello :octocat:, I'm Kanchana Samarakoon, currently pursuing a degree in ICT at 
 - Linux :space_invader:
 - Open source :octocat:
 - music :musical_keyboard:
+- Reading :books:
 
 ## Skills and Experience
 
 -  React ⚛
 -  Shell 📱
+-  Linux :penguin:
 -  HTML, CSS, JS 💻
 
 <p align="left">
