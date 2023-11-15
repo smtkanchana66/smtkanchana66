@@ -67,5 +67,4 @@ Hello :octocat:, I'm <a href="https://kanchana66.github.io/">Kanchana Samarakoon
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kanchana66&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
-### Check out my portfolio:</b>  <a href="https://kanchana66.github.io/">Here🚀</a> 
-
+<a href="https://kanchana66.github.io/">Check out my portfolio</b></a>
