@@ -34,7 +34,7 @@
 
 ## About me
 
-Hello :octocat:, I'm <a href="https://kanchana66.github.io/">Kanchana Samarakoon</a>, currently pursuing a degree in ICT at Uva Wellassa University in Sri Lanka 🇱🇰. As an IT student, I'm on a journey of continuous learning and exploration. I'm dedicated to expanding my knowledge and skills in these cutting-edge fields and look forward to contributing my expertise to the world of technology :ghost:.
+Hello :octocat:, I'm <a href="https://smtkanchana66.github.io/">Kanchana Samarakoon</a>, currently pursuing a degree in ICT at Uva Wellassa University in Sri Lanka 🇱🇰. As an IT student, I'm on a journey of continuous learning and exploration. I'm dedicated to expanding my knowledge and skills in these cutting-edge fields and look forward to contributing my expertise to the world of technology :ghost:.
 
 ## Things I am passionate about
 
@@ -67,4 +67,4 @@ Hello :octocat:, I'm <a href="https://kanchana66.github.io/">Kanchana Samarakoon
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kanchana66&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
-<a href="https://kanchana66.github.io/">Check out my portfolio</b></a>
+<a href="https://smtkanchana66.github.io/">Check out my portfolio</b></a>
