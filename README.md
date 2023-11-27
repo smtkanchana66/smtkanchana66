@@ -55,13 +55,15 @@ Hello :octocat:, I'm <a href="https://smtkanchana66.github.io/">Kanchana Samarak
     <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk2.png" alt="Gnome" width="30" height="30"/>
     <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk3.png" alt="Kali" width="30" height="30"/>
     <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk4.png" alt="debian" width="30" height="30"/>
+    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/logoc.gif" alt="debian" width="30" height="30"/>
 </p>
+
 
 <!--
 <p align="center">
 <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/go4.gif" alt="Endbanner" width="50" height="50">
 </p>
--->
+
 
 <!-- <hr />
 
