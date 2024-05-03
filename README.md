@@ -69,4 +69,6 @@ Hello :octocat:, I'm <a href="https://smtkanchana66.github.io/">Kanchana Samarak
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kanchana66&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
-<a href="https://smtkanchana66.github.io/">Check out my portfolio</b></a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/smtkanchana66.png" alt="TryHackMe">
+
+<!-- <a href="https://smtkanchana66.github.io/">Check out my portfolio</b></a> -->
