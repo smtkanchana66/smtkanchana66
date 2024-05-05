@@ -45,10 +45,9 @@ Hello :octocat:, I'm <a href="https://smtkanchana66.github.io/">Kanchana Samarak
 
 ## Skills and Experience
 
--  React ⚛
 -  Shell 📱
 -  Linux :penguin:
--  HTML, CSS, JS 💻
+
 
 <p align="left">
     <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk1.png" alt="Linux" width="30" height="30"/>
