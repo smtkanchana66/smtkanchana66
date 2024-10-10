@@ -32,9 +32,9 @@
     <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2"/>
 </p>
 
-## About me
+## About me 
 
-Hello :octocat:, I'm <a href="https://smtkanchana66.github.io/">Kanchana Samarakoon</a>, currently pursuing a degree in ICT at Uva Wellassa University in Sri Lanka 🇱🇰. As an IT student, I'm on a journey of continuous learning and exploration. I'm dedicated to expanding my knowledge and skills in these cutting-edge fields and look forward to contributing my expertise to the world of technology :ghost:.
+Hello :octocat:, I'm <a href="https://smtkanchana66.github.io/">Kanchana Samarakoon</a>, currently pursuing a degree in ICT at Uva Wellassa University in Sri Lanka 🇱🇰. As an IT student, I'm on a journey of continuous learning and exploration. I'm dedicated to expanding my knowledge and skills in these cutting-edge fields and look forward to contributing my expertise to the world of technology :ghost:. 
 
 ## Things I am passionate about
 
@@ -49,13 +49,13 @@ Hello :octocat:, I'm <a href="https://smtkanchana66.github.io/">Kanchana Samarak
 -  Linux :penguin:
 
 
-<p align="left">
+<!-- <p align="left">
     <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk1.png" alt="Linux" width="30" height="30"/>
     <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk2.png" alt="Gnome" width="30" height="30"/>
     <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk3.png" alt="Kali" width="30" height="30"/>
     <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk4.png" alt="debian" width="30" height="30"/>
     <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/logoc.gif" alt="debian" width="30" height="30"/>
-</p>
+</p> -->
 
 
 <!--
@@ -71,3 +71,6 @@ Hello :octocat:, I'm <a href="https://smtkanchana66.github.io/">Kanchana Samarak
 <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/CyberW1zard.png" alt="TryHackMe"> -->
 
 <!-- <a href="https://smtkanchana66.github.io/">Check out my portfolio</b></a> -->
+## Languages and Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" heigth="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"  width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" heigth="50" />
+
