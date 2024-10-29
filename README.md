@@ -15,14 +15,13 @@
 
 <p align="center"> 
     <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2"/>
-</p> -->
+</p> 
 
 <p align="center"> 
     <b> Visitor Count: </b> <br>
     <img src="https://profile-counter.glitch.me/kanchana66/count.svg" /> 
 </p>
 
-<!--  OOOOOOOOOOld bannner v1
 
 <p align="center"> 
     <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2"/>
@@ -39,6 +38,7 @@ Hello :octocat:, I'm <a href="https://smtkanchana66.github.io/">Kanchana Samarak
 - Open source :octocat:
 - music :musical_keyboard:
 - Books :books:
+- Python 🐍
 
 ## Skills and Experience
 
