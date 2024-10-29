@@ -1,14 +1,8 @@
-<!--hey buddy, This is open source, get anything you want -->
-
-
-
-<!--
-<p align="left">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? 
-         font=Fira+Code&pause=1000&color=3566E6&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Kanchana+Samarakoon" alt="Typing SVG" />
-    </a>
+<p align="center"> 
+    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/newbanner.png" alt="banner" width="1000" height="200"/>
 </p>
--->
+
+<!--  OOOOOOOOOOld bannner v1
 
 <p align="center"> 
     <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3t.gif" alt="banner" width="1000" height="2"/>
@@ -17,20 +11,23 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3.gif" alt="banner" width="1000" height="100"/> 
 </p>
-<!--banner w-1000 h-100 box 400x400 -->
+
 
 <p align="center"> 
     <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2"/>
-</p>
+</p> -->
 
 <p align="center"> 
     <b> Visitor Count: </b> <br>
     <img src="https://profile-counter.glitch.me/kanchana66/count.svg" /> 
 </p>
 
+<!--  OOOOOOOOOOld bannner v1
+
 <p align="center"> 
     <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2"/>
 </p>
+-->
 
 ## About me 
 
