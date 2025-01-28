@@ -28,6 +28,13 @@
 </p>
 -->
 
+
+
+
+
+
+
+<!--
 ## About me 
 
 Hello :octocat:, I'm <a href="https://smtkanchana66.github.io/">Kanchana Samarakoon</a>, currently pursuing a degree in ICT at Uva Wellassa University in Sri Lanka 🇱🇰. As an IT student, I'm on a journey of continuous learning and exploration. I'm dedicated to expanding my knowledge and skills in these cutting-edge fields and look forward to contributing my expertise to the world of technology :ghost:. 
@@ -44,6 +51,12 @@ Hello :octocat:, I'm <a href="https://smtkanchana66.github.io/">Kanchana Samarak
 
 -  Shell 📱
 -  Linux :penguin:
+-->
+
+
+
+
+
 
 
 <!-- <p align="left">
