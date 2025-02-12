@@ -89,23 +89,6 @@ Hello :octocat:, I'm <a href="https://smtkanchana66.github.io/">Kanchana Samarak
   <img src="https://profile-counter.glitch.me/smtkanchana66/count.svg?"  />
 </div>-->
 
-###
-
-<img src="https://raw.githubusercontent.com/smtkanchana66/smtkanchana66/output/snake.svg" alt="Snake animation" />
-
-###
-
-<!--<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smtkancha66/smtkanchana66/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smtkanchana66/smtkanchana66/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/smtkanchana66/smtkanchana66/output/github-snake.svg" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smtkancha66/smtkanchana66/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smtkancha66/smtkanchana66/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/smtkancha66/smtkanchana66/output/github-snake.svg" />
-</picture>-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smtkanchana66/smtkanchana66/output/github-snake-dark.svg" />
