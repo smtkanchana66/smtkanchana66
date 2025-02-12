@@ -15,14 +15,14 @@
 
 <p align="center"> 
     <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2"/>
-</p> 
+</p> -->
 
 <p align="center"> 
-    <b> Visitor Count: </b> <br>
+    <b> Visitors Count: </b> <br>
     <img src="https://profile-counter.glitch.me/kanchana66/count.svg" /> 
 </p>
 
-
+<!--
 <p align="center"> 
     <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2"/>
 </p>
@@ -45,13 +45,14 @@ Hello :octocat:, I'm <a href="https://smtkanchana66.github.io/">Kanchana Samarak
 - Open source :octocat:
 - music :musical_keyboard:
 - Books :books:
-- Python 🐍
 
 ## Skills and Experience
 
 -  Shell 📱
 -  Linux :penguin:
+-  Python 🐍
 -->
+
 
 
 
@@ -81,7 +82,7 @@ Hello :octocat:, I'm <a href="https://smtkanchana66.github.io/">Kanchana Samarak
 <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/CyberW1zard.png" alt="TryHackMe"> -->
 
 <!-- <a href="https://smtkanchana66.github.io/">Check out my portfolio</b></a> -->
-## Languages and Tools
+## Languages and Tools I used 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" heigth="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"  width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" heigth="50" />
 
 
