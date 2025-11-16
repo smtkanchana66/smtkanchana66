@@ -1,6 +1,6 @@
-<p align="center"> 
+<!-- <p align="center"> 
     <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/newbanner.png" alt="banner" width="1000" height="200"/>
-</p>
+</p> -->
 
 <!--  OOOOOOOOOOld bannner v1
 
