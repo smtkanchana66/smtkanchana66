@@ -1,88 +1,19 @@
-<!-- <p align="center"> 
-    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/newbanner.png" alt="banner" width="1000" height="200"/>
-</p> -->
+# Hi, I'm Kanchana
 
-<!--  OOOOOOOOOOld bannner v1
+ICT undergraduate at [Uva Wellassa University](https://www.uwu.ac.lk/) specializing in Business Intelligence, former software engineering intern at Software Plus Technologies, native Linux user for 7+ years. Into cloud infrastructure, cybersecurity, AI systems, and open source tinkering. Also produce music as [ST3R1XX](https://www.youtube.com/@ST3R1XX).
 
-<p align="center"> 
-    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3t.gif" alt="banner" width="1000" height="2"/>
-</p>
+## Projects I Built
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3.gif" alt="banner" width="1000" height="100"/> 
-</p>
-
-
-<p align="center"> 
-    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2"/>
-</p> -->
-
-
-
-<!--
-<p align="center"> 
-    <img src="https://raw.githubusercontent.com/kanchana66/kanchana66/main/resources/banner5.3b.gif" alt="banner" width="1000" height="2"/>
-</p>
--->
-
-
-
-
-
-
-
-<!--
-## About me 
-
-Hello :octocat:, I'm <a href="https://smtkanchana66.github.io/">Kanchana Samarakoon</a>, currently pursuing a degree in ICT at Uva Wellassa University in Sri Lanka 🇱🇰. As an IT student, I'm on a journey of continuous learning and exploration. I'm dedicated to expanding my knowledge and skills in these cutting-edge fields and look forward to contributing my expertise to the world of technology :ghost:. 
-
-## Things I am passionate about
-
-- Linux :space_invader:
-- Open source :octocat:
-- music :musical_keyboard:
-- Books :books:
-
-## Skills and Experience
-
--  Shell 📱
--  Linux :penguin:
--  Python 🐍
--->
-
-
-
-
-
-
-
-
-<!-- <p align="left">
-    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk1.png" alt="Linux" width="30" height="30"/>
-    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk2.png" alt="Gnome" width="30" height="30"/>
-    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk3.png" alt="Kali" width="30" height="30"/>
-    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/sk4.png" alt="debian" width="30" height="30"/>
-    <img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/logoc.gif" alt="debian" width="30" height="30"/>
-</p> -->
-
-
-<!--
-<p align="center">
-<img  src="https://github.com/kanchana66/kanchana66/blob/main/other.gif/go4.gif" alt="Endbanner" width="50" height="50">
-</p>
-
-
-<!-- <hr />
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kanchana66&bg_color=0d1117&color=878787&line=4c8ed9&point=878787&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
-<!-- <img src="https://tryhackme-badges.s3.amazonaws.com/CyberW1zard.png" alt="TryHackMe"> -->
-
-<!-- <a href="https://smtkanchana66.github.io/">Check out my portfolio</b></a> -->
-
-<!--<div align="center">
-  <img src="https://profile-counter.glitch.me/smtkanchana66/count.svg?"  />
-</div>-->
+- 🕷️ [webcrawler](https://github.com/smtkanchana66/webcrawler): Web crawler for scraping and indexing site content.
+- 🔬 [skin-cancer-detection-cnn](https://github.com/smtkanchana66/skin-cancer-detection-cnn): CNN-based classifier for skin cancer detection from dermoscopy images.
+- 🗃️ [Demo_DBMS](https://github.com/smtkanchana66/Demo_DBMS): Demonstration database management system project.
+- 🔢 [Roman-to-Integer](https://github.com/smtkanchana66/Roman-to-Integer): Converter for Roman numeral strings to integer values.
+- ✂️ [Rock-Paper-Python](https://github.com/smtkanchana66/Rock-Paper-Pyhton): Terminal Rock-Paper-Scissors game written in Python.
+- 🔐 [encryption-decryption-tool](https://github.com/smtkanchana66/encryption-decryption-tool): CLI tool for encrypting and decrypting files or text.
+- ⚡ [harry-potter-house-quiz](https://github.com/smtkanchana66/harry-potter-house-quiz): Interactive quiz that sorts you into a Hogwarts house.
+- 🛰️ [Nmap-GUI](https://github.com/smtkanchana66/Nmap-GUI): Graphical front-end for Nmap network scanning.
+- 📖 [Linux-Bible](https://github.com/smtkanchana66/Linux-Bible): Personal notes and reference material for Linux administration.
+- 🛡️ [WinSecurityProject](https://github.com/smtkanchana66/WinSecurityProject): Windows security hardening scripts and automation.
 
 <p align="center">
 <picture>
@@ -92,16 +23,5 @@ Hello :octocat:, I'm <a href="https://smtkanchana66.github.io/">Kanchana Samarak
 </picture>
 </p>
 
-<!--
-<p align="left"> 
-    <b> Visitors Count: </b> <br>
-    <img src="https://profile-counter.glitch.me/kanchana66/count.svg" /> 
-</p>
-
-
-## Languages and Tools I used 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" heigth="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"  width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" heigth="50" />
-
--->
 
 
