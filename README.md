@@ -15,6 +15,14 @@ ICT undergraduate at [Uva Wellassa University](https://www.uwu.ac.lk/) specializ
 - 📖 [Linux-Bible](https://github.com/smtkanchana66/Linux-Bible): Personal notes and reference material for Linux administration.
 - 🛡️ [WinSecurityProject](https://github.com/smtkanchana66/WinSecurityProject): Windows security hardening scripts and automation.
 
+## Recent Articles and Blog Posts
+ 
+- [Python for Everyone — Part 2](https://smtkanchana66.github.io/post.html?slug=python-for-everyone-post-02)
+- [Linux Desktop Environments: A Personal Journey Through GNOME, KDE, and XFCE](https://smtkanchana66.github.io/post.html?slug=linux-desktop-environments-a-personal-journey-through-gnome-kde-and-xfce)
+- [Python for Everyone — Part 1](https://smtkanchana66.github.io/post.html?slug=python-for-everyone-post-01)
+- [The Complete Guide to .gitignore](https://smtkanchana66.github.io/post.html?slug=the-complete-guide-to-gitignore)
+
+
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smtkanchana66/smtkanchana66/output/github-snake-dark.svg" />
