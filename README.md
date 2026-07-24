@@ -1,6 +1,6 @@
 # Hi, I'm Kanchana
 
-ICT undergraduate at [Uva Wellassa University](https://www.uwu.ac.lk/) specializing in Business Intelligence, former software engineering intern at Software Plus Technologies, native Linux user for 7+ years. Into cloud infrastructure, cybersecurity, AI systems, and open source tinkering. Also produce music as [ST3R1XX](https://www.youtube.com/@ST3R1XX).
+ICT graduate at [Uva Wellassa University](https://www.uwu.ac.lk/) specializing in Business Intelligence, former software engineering intern at Software Plus Technologies, native Linux user for 7+ years. Into cloud infrastructure, cybersecurity, AI systems, and open source tinkering. Also produce music as [ST3R1XX](https://www.youtube.com/@ST3R1XX).
 
 ## Projects I Built
 
